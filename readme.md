@@ -1,2 +1,2 @@
 # Live Location App
-![](demo.png)
+![](demo/demo.png)
